@@ -1,0 +1,41 @@
+{
+  "fetch_time": "2026-07-27 12:02:07",
+  "date": "2026-07-27",
+  "theme": {
+    "name": "故事讲述",
+    "icon": "📖",
+    "desc": "把热点变成一个有冲突的故事",
+    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
+    "tips": [
+      "用第一人称更有代入感",
+      "加入细节让故事有画面感",
+      "结尾留一个让人回味的点"
+    ]
+  },
+  "topics": [
+    {
+      "title": "重庆彭水发现失联中巴车残骸",
+      "hot_str": "1155.0万",
+      "level": "爆",
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%8E%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%B7%B4%E8%BD%A6%E6%AE%8B%E9%AA%B8",
+      "practice_angle": "把「重庆彭水发现失联中巴车残骸」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+    },
+    {
+      "title": "皇马签下19岁边锋迪奥曼德",
+      "hot_str": "1054.6万",
+      "level": "爆",
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC%E7%AD%BE%E4%B8%8B19%E5%B2%81%E8%BE%B9%E9%94%8B%E8%BF%AA%E5%A5%A5%E6%9B%BC%E5%BE%B7",
+      "practice_angle": "把「皇马签下19岁边锋迪奥曼德」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+    },
+    {
+      "title": "长鑫科技上市的背后",
+      "hot_str": "934.2万",
+      "level": "爆",
+      "rank": 8,
+      "search_url": "https://www.douyin.com/search/%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E7%9A%84%E8%83%8C%E5%90%8E",
+      "practice_angle": "把「长鑫科技上市的背后」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+    }
+  ]
+}
