@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-07-27 08:35:21",
-  "date": "2026-07-27",
+  "fetch_time": "2026-07-28 01:21:12",
+  "date": "2026-07-28",
   "theme": {
-    "name": "故事讲述",
-    "icon": "📖",
-    "desc": "把热点变成一个有冲突的故事",
-    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
+    "name": "知识科普",
+    "icon": "🔬",
+    "desc": "把复杂的热点用大白话讲明白",
+    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
     "tips": [
-      "用第一人称更有代入感",
-      "加入细节让故事有画面感",
-      "结尾留一个让人回味的点"
+      "用一个生活化的比喻开场",
+      "每讲一个概念配一个例子",
+      "最后总结一句金句方便记忆"
     ]
   },
   "topics": [
     {
-      "title": "重庆彭水发现失联中巴车残骸",
-      "hot_str": "1148.7万",
+      "title": "数说中国经济新亮点",
+      "hot_str": "1109.9万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%8E%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%B7%B4%E8%BD%A6%E6%AE%8B%E9%AA%B8",
-      "practice_angle": "把「重庆彭水发现失联中巴车残骸」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9",
+      "practice_angle": "用大白话解释「数说中国经济新亮点」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "课本里的天下第一泉我见到了",
-      "hot_str": "1029.1万",
+      "title": "这次出发不是找你是去找自由",
+      "hot_str": "1045.0万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E6%B3%89%E6%88%91%E8%A7%81%E5%88%B0%E4%BA%86",
-      "practice_angle": "把「课本里的天下第一泉我见到了」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E8%BF%99%E6%AC%A1%E5%87%BA%E5%8F%91%E4%B8%8D%E6%98%AF%E6%89%BE%E4%BD%A0%E6%98%AF%E5%8E%BB%E6%89%BE%E8%87%AA%E7%94%B1",
+      "practice_angle": "用大白话解释「这次出发不是找你是去找自由」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "一代人有一代人的美食人格",
-      "hot_str": "827.9万",
+      "title": "暑期大学生已开启纯吃模式",
+      "hot_str": "927.7万",
       "level": "爆",
-      "rank": 8,
-      "search_url": "https://www.douyin.com/search/%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E7%BE%8E%E9%A3%9F%E4%BA%BA%E6%A0%BC",
-      "practice_angle": "把「一代人有一代人的美食人格」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%BC%80%E5%90%AF%E7%BA%AF%E5%90%83%E6%A8%A1%E5%BC%8F",
+      "practice_angle": "用大白话解释「暑期大学生已开启纯吃模式」：它到底是什么，为什么发生，对普通人有什么影响"
     }
   ]
 }
