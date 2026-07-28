@@ -23,8 +23,47 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 WORKBENCH_DIR = SCRIPT_DIR
 DATA_DIR = os.path.join(WORKBENCH_DIR, "data")
 CRAWLER_SCRIPT = os.path.join(WORKBENCH_DIR, "scripts", "douyin_crawler.py")
-PORT = 8766
+PORT = 8767
 PYTHON_EXE = sys.executable
+
+
+def kill_port_processes(port):
+    """杀掉占用指定端口的所有旧进程（Windows）
+
+    解决问题：直接关闭终端窗口时 Python 进程不会退出，变成僵尸进程
+    霸占端口，导致下次启动只能换端口。启动前自动清理即可固定端口。
+    """
+    if sys.platform != "win32":
+        return
+    try:
+        result = subprocess.run(
+            ["netstat", "-ano"],
+            capture_output=True, text=True, encoding="gbk", errors="ignore",
+        )
+        pids = set()
+        my_pid = os.getpid()
+        lines = (result.stdout or "").splitlines()
+        for line in lines:
+            # 匹配形如 "  TCP    0.0.0.0:8767   ...  LISTENING   30004"
+            if f":{port}" in line and "LISTENING" in line.upper():
+                parts = line.split()
+                if parts:
+                    pid = parts[-1]
+                    if pid.isdigit() and int(pid) != my_pid:
+                        pids.add(pid)
+
+        for pid in pids:
+            subprocess.run(
+                ["taskkill", "/F", "/PID", pid],
+                capture_output=True, text=True, encoding="gbk", errors="ignore",
+            )
+            print(f"[clean] killed zombie PID {pid} on port {port}", flush=True)
+
+        if pids:
+            time.sleep(0.5)  # 等端口释放
+            print(f"[clean] port {port} freed, {len(pids)} process(es) removed", flush=True)
+    except Exception as e:
+        print(f"[warn] port cleanup skipped: {e}", flush=True)
 
 # MIME 类型映射
 MIME_TYPES = {
@@ -118,7 +157,7 @@ class WorkbenchHandler(http.server.BaseHTTPRequestHandler):
                 capture_output=True,
                 text=True,
                 timeout=30,
-                encoding="utf-8",
+                encoding="gbk", errors="ignore",
             )
             print(result.stdout.strip()[-200:] if result.stdout else "(no stdout)", flush=True)
 
@@ -151,11 +190,31 @@ def get_lan_ip():
 
 
 def check_data():
-    """检查是否已有热榜数据"""
+    """检查热榜数据是否需要更新（文件不存在或不是今天的数据就重新爬取）"""
+    from datetime import date as _date
     hot_file = os.path.join(DATA_DIR, "hot_videos.json")
+
+    need_crawl = False
     if not os.path.exists(hot_file):
         print("[init] first run, crawling...", flush=True)
-        subprocess.run([PYTHON_EXE, CRAWLER_SCRIPT], encoding="utf-8")
+        need_crawl = True
+    else:
+        try:
+            with open(hot_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            file_date = data.get("date", "")
+            today = _date.today().isoformat()
+            if file_date != today:
+                print(f"[update] data is {file_date}, today is {today}, refreshing...", flush=True)
+                need_crawl = True
+            else:
+                print(f"[ok] data is up-to-date ({file_date})", flush=True)
+        except Exception:
+            print("[warn] failed to read data file, re-crawling...", flush=True)
+            need_crawl = True
+
+    if need_crawl:
+        subprocess.run([PYTHON_EXE, CRAWLER_SCRIPT], encoding="gbk", errors="ignore")
 
 
 def main():
@@ -163,9 +222,13 @@ def main():
     print("   Zihao Workbench - starting...", flush=True)
     print("=" * 55, flush=True)
 
+    # 启动前清理占用端口的僵尸进程，确保端口可固定复用
+    kill_port_processes(PORT)
+
     check_data()
 
     # 使用 ThreadingHTTPServer 支持并发
+    http.server.ThreadingHTTPServer.allow_reuse_address = True
     server = http.server.ThreadingHTTPServer(("0.0.0.0", PORT), WorkbenchHandler)
     server.daemon_threads = True
 
