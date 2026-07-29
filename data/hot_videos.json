@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-07-28 01:21:12",
-  "date": "2026-07-28",
+  "fetch_time": "2026-07-29 01:22:23",
+  "date": "2026-07-29",
   "theme": {
-    "name": "知识科普",
-    "icon": "🔬",
-    "desc": "把复杂的热点用大白话讲明白",
-    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
+    "name": "情感共鸣",
+    "icon": "💗",
+    "desc": "找到热点里的情绪，说出大家想说的话",
+    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
     "tips": [
-      "用一个生活化的比喻开场",
-      "每讲一个概念配一个例子",
-      "最后总结一句金句方便记忆"
+      "先描述一个具体场景再谈感受",
+      "用'你是不是也...'引导共鸣",
+      "情绪要真，不要过度煽情"
     ]
   },
   "topics": [
     {
-      "title": "数说中国经济新亮点",
-      "hot_str": "1109.9万",
+      "title": "抖音乒乓百分大战再现里约对决",
+      "hot_str": "1210.9万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9",
-      "practice_angle": "用大白话解释「数说中国经济新亮点」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E4%B9%92%E4%B9%93%E7%99%BE%E5%88%86%E5%A4%A7%E6%88%98%E5%86%8D%E7%8E%B0%E9%87%8C%E7%BA%A6%E5%AF%B9%E5%86%B3",
+      "practice_angle": "围绕「抖音乒乓百分大战再现里约对决」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     },
     {
-      "title": "这次出发不是找你是去找自由",
-      "hot_str": "1045.0万",
+      "title": "财富公布2026年500强企业",
+      "hot_str": "1050.9万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E8%BF%99%E6%AC%A1%E5%87%BA%E5%8F%91%E4%B8%8D%E6%98%AF%E6%89%BE%E4%BD%A0%E6%98%AF%E5%8E%BB%E6%89%BE%E8%87%AA%E7%94%B1",
-      "practice_angle": "用大白话解释「这次出发不是找你是去找自由」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E8%B4%A2%E5%AF%8C%E5%85%AC%E5%B8%832026%E5%B9%B4500%E5%BC%BA%E4%BC%81%E4%B8%9A",
+      "practice_angle": "围绕「财富公布2026年500强企业」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     },
     {
-      "title": "暑期大学生已开启纯吃模式",
-      "hot_str": "927.7万",
+      "title": "齐达内出任法国队主教练",
+      "hot_str": "914.6万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%BC%80%E5%90%AF%E7%BA%AF%E5%90%83%E6%A8%A1%E5%BC%8F",
-      "practice_angle": "用大白话解释「暑期大学生已开启纯吃模式」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83",
+      "practice_angle": "围绕「齐达内出任法国队主教练」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     }
   ]
 }
