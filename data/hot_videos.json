@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-07-30 01:15:24",
-  "date": "2026-07-30",
+  "fetch_time": "2026-07-31 01:29:26",
+  "date": "2026-07-31",
   "theme": {
-    "name": "反驳辩论",
-    "icon": "⚔️",
-    "desc": "站在对立面，把少数派观点讲清楚",
-    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
+    "name": "即兴点评",
+    "icon": "⚡",
+    "desc": "60秒不准备，张嘴就评",
+    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
     "tips": [
-      "先公平复述对方观点再反驳",
-      "反驳要有事实依据不是抬杠",
-      "结尾可以留一个开放问题"
+      "不要写稿，想到什么说什么",
+      "语速可以慢，但不要停顿太久",
+      "录完听一遍，标记可以改进的地方"
     ]
   },
   "topics": [
     {
-      "title": "赵心童6:2战胜丁俊晖晋级八强",
-      "hot_str": "1131.3万",
+      "title": "解放军两次警告日方不能自称海军",
+      "hot_str": "1127.2万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A56%3A2%E6%88%98%E8%83%9C%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
-      "practice_angle": "关于「赵心童6:2战胜丁俊晖晋级八强」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%A4%E6%AC%A1%E8%AD%A6%E5%91%8A%E6%97%A5%E6%96%B9%E4%B8%8D%E8%83%BD%E8%87%AA%E7%A7%B0%E6%B5%B7%E5%86%9B",
+      "practice_angle": "看到「解放军两次警告日方不能自称海军」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "烤肉师傅“烤斯克”回应走红",
-      "hot_str": "1054.7万",
+      "title": "规模以上文化企业营收同比增长",
+      "hot_str": "1109.5万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E7%83%A4%E8%82%89%E5%B8%88%E5%82%85%E2%80%9C%E7%83%A4%E6%96%AF%E5%85%8B%E2%80%9D%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2",
-      "practice_angle": "关于「烤肉师傅“烤斯克”回应走红」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E8%A7%84%E6%A8%A1%E4%BB%A5%E4%B8%8A%E6%96%87%E5%8C%96%E4%BC%81%E4%B8%9A%E8%90%A5%E6%94%B6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF",
+      "practice_angle": "看到「规模以上文化企业营收同比增长」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "让旅行回忆替我们降降温吧",
-      "hot_str": "918.0万",
+      "title": "赵心童淘汰罗伯逊晋级半决赛",
+      "hot_str": "1032.1万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E8%AE%A9%E6%97%85%E8%A1%8C%E5%9B%9E%E5%BF%86%E6%9B%BF%E6%88%91%E4%BB%AC%E9%99%8D%E9%99%8D%E6%B8%A9%E5%90%A7",
-      "practice_angle": "关于「让旅行回忆替我们降降温吧」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%B7%98%E6%B1%B0%E7%BD%97%E4%BC%AF%E9%80%8A%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B",
+      "practice_angle": "看到「赵心童淘汰罗伯逊晋级半决赛」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     }
   ]
 }
