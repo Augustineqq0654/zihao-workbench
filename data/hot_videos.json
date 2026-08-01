@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-07-31 01:29:26",
-  "date": "2026-07-31",
+  "fetch_time": "2026-08-01 01:30:11",
+  "date": "2026-08-01",
   "theme": {
-    "name": "即兴点评",
-    "icon": "⚡",
-    "desc": "60秒不准备，张嘴就评",
-    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
+    "name": "场景演绎",
+    "icon": "🎭",
+    "desc": "设一个角色，从他的视角表达",
+    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
     "tips": [
-      "不要写稿，想到什么说什么",
-      "语速可以慢，但不要停顿太久",
-      "录完听一遍，标记可以改进的地方"
+      "角色要具体：职业、年龄、处境",
+      "用角色的语气和用词说话",
+      "可以加一点表演让画面更强"
     ]
   },
   "topics": [
     {
-      "title": "解放军两次警告日方不能自称海军",
-      "hot_str": "1127.2万",
+      "title": "吴宜泽无缘上海大师赛决赛",
+      "hot_str": "1184.0万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%A4%E6%AC%A1%E8%AD%A6%E5%91%8A%E6%97%A5%E6%96%B9%E4%B8%8D%E8%83%BD%E8%87%AA%E7%A7%B0%E6%B5%B7%E5%86%9B",
-      "practice_angle": "看到「解放军两次警告日方不能自称海军」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%97%A0%E7%BC%98%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%86%B3%E8%B5%9B",
+      "practice_angle": "围绕「吴宜泽无缘上海大师赛决赛」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "规模以上文化企业营收同比增长",
-      "hot_str": "1109.5万",
+      "title": "AI生成的作品算艺术吗",
+      "hot_str": "933.0万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E8%A7%84%E6%A8%A1%E4%BB%A5%E4%B8%8A%E6%96%87%E5%8C%96%E4%BC%81%E4%B8%9A%E8%90%A5%E6%94%B6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF",
-      "practice_angle": "看到「规模以上文化企业营收同比增长」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 7,
+      "search_url": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E7%9A%84%E4%BD%9C%E5%93%81%E7%AE%97%E8%89%BA%E6%9C%AF%E5%90%97",
+      "practice_angle": "围绕「AI生成的作品算艺术吗」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "赵心童淘汰罗伯逊晋级半决赛",
-      "hot_str": "1032.1万",
+      "title": "我的暑期限定solotrip",
+      "hot_str": "924.1万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%B7%98%E6%B1%B0%E7%BD%97%E4%BC%AF%E9%80%8A%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B",
-      "practice_angle": "看到「赵心童淘汰罗伯逊晋级半决赛」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%9A%91%E6%9C%9F%E9%99%90%E5%AE%9Asolotrip",
+      "practice_angle": "围绕「我的暑期限定solotrip」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     }
   ]
 }
