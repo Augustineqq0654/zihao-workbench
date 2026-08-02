@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-01 01:30:11",
-  "date": "2026-08-01",
+  "fetch_time": "2026-08-02 01:27:43",
+  "date": "2026-08-02",
   "theme": {
-    "name": "场景演绎",
-    "icon": "🎭",
-    "desc": "设一个角色，从他的视角表达",
-    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
+    "name": "观点输出",
+    "icon": "🎯",
+    "desc": "选定一个热点，明确表达你的立场",
+    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
     "tips": [
-      "角色要具体：职业、年龄、处境",
-      "用角色的语气和用词说话",
-      "可以加一点表演让画面更强"
+      "开头直接亮观点，不绕弯子",
+      "每个理由配一个具体例子",
+      "结尾给行动建议，让观众有获得感"
     ]
   },
   "topics": [
     {
-      "title": "吴宜泽无缘上海大师赛决赛",
-      "hot_str": "1184.0万",
+      "title": "赵心童8:10威尔逊无缘决赛",
+      "hot_str": "1210.1万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%97%A0%E7%BC%98%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%86%B3%E8%B5%9B",
-      "practice_angle": "围绕「吴宜泽无缘上海大师赛决赛」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A58%3A10%E5%A8%81%E5%B0%94%E9%80%8A%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
+      "practice_angle": "就「赵心童8:10威尔逊无缘决赛」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     },
     {
-      "title": "AI生成的作品算艺术吗",
-      "hot_str": "933.0万",
+      "title": "用一万斤青铜复刻曾侯乙编钟",
+      "hot_str": "1117.9万",
+      "level": "爆",
+      "rank": 4,
+      "search_url": "https://www.douyin.com/search/%E7%94%A8%E4%B8%80%E4%B8%87%E6%96%A4%E9%9D%92%E9%93%9C%E5%A4%8D%E5%88%BB%E6%9B%BE%E4%BE%AF%E4%B9%99%E7%BC%96%E9%92%9F",
+      "practice_angle": "就「用一万斤青铜复刻曾侯乙编钟」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+    },
+    {
+      "title": "直20J亮剑黄岩岛",
+      "hot_str": "936.1万",
       "level": "爆",
       "rank": 7,
-      "search_url": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E7%9A%84%E4%BD%9C%E5%93%81%E7%AE%97%E8%89%BA%E6%9C%AF%E5%90%97",
-      "practice_angle": "围绕「AI生成的作品算艺术吗」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
-    },
-    {
-      "title": "我的暑期限定solotrip",
-      "hot_str": "924.1万",
-      "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%9A%91%E6%9C%9F%E9%99%90%E5%AE%9Asolotrip",
-      "practice_angle": "围绕「我的暑期限定solotrip」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "search_url": "https://www.douyin.com/search/%E7%9B%B420J%E4%BA%AE%E5%89%91%E9%BB%84%E5%B2%A9%E5%B2%9B",
+      "practice_angle": "就「直20J亮剑黄岩岛」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     }
   ]
 }
