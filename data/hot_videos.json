@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-06 01:19:29",
-  "date": "2026-08-06",
+  "fetch_time": "2026-08-07 02:00:01",
+  "date": "2026-08-07",
   "theme": {
-    "name": "反驳辩论",
-    "icon": "⚔️",
-    "desc": "站在对立面，把少数派观点讲清楚",
-    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
+    "name": "即兴点评",
+    "icon": "⚡",
+    "desc": "60秒不准备，张嘴就评",
+    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
     "tips": [
-      "先公平复述对方观点再反驳",
-      "反驳要有事实依据不是抬杠",
-      "结尾可以留一个开放问题"
+      "不要写稿，想到什么说什么",
+      "语速可以慢，但不要停顿太久",
+      "录完听一遍，标记可以改进的地方"
     ]
   },
   "topics": [
     {
-      "title": "中方对6家美国实体采取反制措施",
-      "hot_str": "1148.1万",
+      "title": "今日立秋",
+      "hot_str": "1110.7万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%AF%B96%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD",
-      "practice_angle": "关于「中方对6家美国实体采取反制措施」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E7%AB%8B%E7%A7%8B",
+      "practice_angle": "看到「今日立秋」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "2026年的夏天要结束了",
-      "hot_str": "1043.1万",
+      "title": "产业创新活力持续提升",
+      "hot_str": "1057.9万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/2026%E5%B9%B4%E7%9A%84%E5%A4%8F%E5%A4%A9%E8%A6%81%E7%BB%93%E6%9D%9F%E4%BA%86",
-      "practice_angle": "关于「2026年的夏天要结束了」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E6%B4%BB%E5%8A%9B%E6%8C%81%E7%BB%AD%E6%8F%90%E5%8D%87",
+      "practice_angle": "看到「产业创新活力持续提升」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "夏日蓝色系妆一眼降温",
-      "hot_str": "920.3万",
+      "title": "转眼又是一年秋",
+      "hot_str": "957.9万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E5%A4%8F%E6%97%A5%E8%93%9D%E8%89%B2%E7%B3%BB%E5%A6%86%E4%B8%80%E7%9C%BC%E9%99%8D%E6%B8%A9",
-      "practice_angle": "关于「夏日蓝色系妆一眼降温」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E8%BD%AC%E7%9C%BC%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E7%A7%8B",
+      "practice_angle": "看到「转眼又是一年秋」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     }
   ]
 }
