@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-10 00:48:31",
-  "date": "2026-08-10",
+  "fetch_time": "2026-08-11 00:48:03",
+  "date": "2026-08-11",
   "theme": {
-    "name": "故事讲述",
-    "icon": "📖",
-    "desc": "把热点变成一个有冲突的故事",
-    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
+    "name": "知识科普",
+    "icon": "🔬",
+    "desc": "把复杂的热点用大白话讲明白",
+    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
     "tips": [
-      "用第一人称更有代入感",
-      "加入细节让故事有画面感",
-      "结尾留一个让人回味的点"
+      "用一个生活化的比喻开场",
+      "每讲一个概念配一个例子",
+      "最后总结一句金句方便记忆"
     ]
   },
   "topics": [
     {
-      "title": "台风白海豚实时路径",
-      "hot_str": "1167.9万",
+      "title": "暑期档电影市场增势向好",
+      "hot_str": "1159.8万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84",
-      "practice_angle": "把「台风白海豚实时路径」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E5%A2%9E%E5%8A%BF%E5%90%91%E5%A5%BD",
+      "practice_angle": "用大白话解释「暑期档电影市场增势向好」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "我在草原上站了一会",
-      "hot_str": "999.5万",
+      "title": "通勤穿出松弛感",
+      "hot_str": "1064.6万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%AB%99%E4%BA%86%E4%B8%80%E4%BC%9A",
-      "practice_angle": "把「我在草原上站了一会」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E9%80%9A%E5%8B%A4%E7%A9%BF%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F",
+      "practice_angle": "用大白话解释「通勤穿出松弛感」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "宇树科技今日申购",
-      "hot_str": "773.6万",
+      "title": "用AI重返那年相遇的青涩夏天",
+      "hot_str": "925.3万",
       "level": "爆",
-      "rank": 8,
-      "search_url": "https://www.douyin.com/search/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E6%97%A5%E7%94%B3%E8%B4%AD",
-      "practice_angle": "把「宇树科技今日申购」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E7%94%A8AI%E9%87%8D%E8%BF%94%E9%82%A3%E5%B9%B4%E7%9B%B8%E9%81%87%E7%9A%84%E9%9D%92%E6%B6%A9%E5%A4%8F%E5%A4%A9",
+      "practice_angle": "用大白话解释「用AI重返那年相遇的青涩夏天」：它到底是什么，为什么发生，对普通人有什么影响"
     }
   ]
 }
