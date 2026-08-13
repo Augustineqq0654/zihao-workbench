@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-12 00:54:59",
-  "date": "2026-08-12",
+  "fetch_time": "2026-08-13 00:56:25",
+  "date": "2026-08-13",
   "theme": {
-    "name": "情感共鸣",
-    "icon": "💗",
-    "desc": "找到热点里的情绪，说出大家想说的话",
-    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
+    "name": "反驳辩论",
+    "icon": "⚔️",
+    "desc": "站在对立面，把少数派观点讲清楚",
+    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
     "tips": [
-      "先描述一个具体场景再谈感受",
-      "用'你是不是也...'引导共鸣",
-      "情绪要真，不要过度煽情"
+      "先公平复述对方观点再反驳",
+      "反驳要有事实依据不是抬杠",
+      "结尾可以留一个开放问题"
     ]
   },
   "topics": [
     {
-      "title": "台风白海豚停止编号",
-      "hot_str": "1212.3万",
+      "title": "新台风浪卡生成",
+      "hot_str": "1120.6万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%81%9C%E6%AD%A2%E7%BC%96%E5%8F%B7",
-      "practice_angle": "围绕「台风白海豚停止编号」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E6%96%B0%E5%8F%B0%E9%A3%8E%E6%B5%AA%E5%8D%A1%E7%94%9F%E6%88%90",
+      "practice_angle": "关于「新台风浪卡生成」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "北京迎暴雨天气",
-      "hot_str": "1055.0万",
+      "title": "我选择海岛作为我生活的解药",
+      "hot_str": "1026.2万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E8%BF%8E%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%94",
-      "practice_angle": "围绕「北京迎暴雨天气」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E6%88%91%E9%80%89%E6%8B%A9%E6%B5%B7%E5%B2%9B%E4%BD%9C%E4%B8%BA%E6%88%91%E7%94%9F%E6%B4%BB%E7%9A%84%E8%A7%A3%E8%8D%AF",
+      "practice_angle": "关于「我选择海岛作为我生活的解药」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "郭兰英逝世",
-      "hot_str": "931.7万",
+      "title": "硬核运镜闯8D重庆太丝滑了",
+      "hot_str": "866.2万",
       "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E9%83%AD%E5%85%B0%E8%8B%B1%E9%80%9D%E4%B8%96",
-      "practice_angle": "围绕「郭兰英逝世」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E7%A1%AC%E6%A0%B8%E8%BF%90%E9%95%9C%E9%97%AF8D%E9%87%8D%E5%BA%86%E5%A4%AA%E4%B8%9D%E6%BB%91%E4%BA%86",
+      "practice_angle": "关于「硬核运镜闯8D重庆太丝滑了」，大多数人支持A观点，你来论证为什么B观点也有道理"
     }
   ]
 }
