@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-15 00:32:05",
-  "date": "2026-08-15",
+  "fetch_time": "2026-08-16 00:33:39",
+  "date": "2026-08-16",
   "theme": {
-    "name": "场景演绎",
-    "icon": "🎭",
-    "desc": "设一个角色，从他的视角表达",
-    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
+    "name": "观点输出",
+    "icon": "🎯",
+    "desc": "选定一个热点，明确表达你的立场",
+    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
     "tips": [
-      "角色要具体：职业、年龄、处境",
-      "用角色的语气和用词说话",
-      "可以加一点表演让画面更强"
+      "开头直接亮观点，不绕弯子",
+      "每个理由配一个具体例子",
+      "结尾给行动建议，让观众有获得感"
     ]
   },
   "topics": [
     {
-      "title": "印尼7.7级强震或引发区域海啸",
-      "hot_str": "1194.3万",
+      "title": "中超成都蓉城3:2浙江队",
+      "hot_str": "1171.6万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%BC%BA%E9%9C%87%E6%88%96%E5%BC%95%E5%8F%91%E5%8C%BA%E5%9F%9F%E6%B5%B7%E5%95%B8",
-      "practice_angle": "围绕「印尼7.7级强震或引发区域海啸」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E3%3A2%E6%B5%99%E6%B1%9F%E9%98%9F",
+      "practice_angle": "就「中超成都蓉城3:2浙江队」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     },
     {
-      "title": "国防部：敦促日方认罪赎罪",
-      "hot_str": "956.7万",
+      "title": "河南贾鲁河川汇区段溃口完成合龙",
+      "hot_str": "1120.1万",
+      "level": "爆",
+      "rank": 4,
+      "search_url": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E8%B4%BE%E9%B2%81%E6%B2%B3%E5%B7%9D%E6%B1%87%E5%8C%BA%E6%AE%B5%E6%BA%83%E5%8F%A3%E5%AE%8C%E6%88%90%E5%90%88%E9%BE%99",
+      "practice_angle": "就「河南贾鲁河川汇区段溃口完成合龙」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+    },
+    {
+      "title": "60岁AI动画赛道新人",
+      "hot_str": "919.8万",
       "level": "爆",
       "rank": 7,
-      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E8%AE%A4%E7%BD%AA%E8%B5%8E%E7%BD%AA",
-      "practice_angle": "围绕「国防部：敦促日方认罪赎罪」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
-    },
-    {
-      "title": "躺在没有天花板的地方",
-      "hot_str": "938.2万",
-      "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E8%BA%BA%E5%9C%A8%E6%B2%A1%E6%9C%89%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%9A%84%E5%9C%B0%E6%96%B9",
-      "practice_angle": "围绕「躺在没有天花板的地方」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "search_url": "https://www.douyin.com/search/60%E5%B2%81AI%E5%8A%A8%E7%94%BB%E8%B5%9B%E9%81%93%E6%96%B0%E4%BA%BA",
+      "practice_angle": "就「60岁AI动画赛道新人」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     }
   ]
 }
