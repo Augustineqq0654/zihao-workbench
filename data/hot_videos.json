@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-19 00:32:24",
-  "date": "2026-08-19",
+  "fetch_time": "2026-08-20 00:32:07",
+  "date": "2026-08-20",
   "theme": {
-    "name": "情感共鸣",
-    "icon": "💗",
-    "desc": "找到热点里的情绪，说出大家想说的话",
-    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
+    "name": "反驳辩论",
+    "icon": "⚔️",
+    "desc": "站在对立面，把少数派观点讲清楚",
+    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
     "tips": [
-      "先描述一个具体场景再谈感受",
-      "用'你是不是也...'引导共鸣",
-      "情绪要真，不要过度煽情"
+      "先公平复述对方观点再反驳",
+      "反驳要有事实依据不是抬杠",
+      "结尾可以留一个开放问题"
     ]
   },
   "topics": [
     {
-      "title": "今日七夕",
-      "hot_str": "1211.1万",
+      "title": "三个维度解读前7月经济成绩单",
+      "hot_str": "1120.3万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E4%B8%83%E5%A4%95",
-      "practice_angle": "围绕「今日七夕」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%A7%A3%E8%AF%BB%E5%89%8D7%E6%9C%88%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95",
+      "practice_angle": "关于「三个维度解读前7月经济成绩单」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "不止七夕更要朝夕",
-      "hot_str": "1040.1万",
+      "title": "马来西亚总理强调台湾属于中国",
+      "hot_str": "921.9万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E4%B8%8D%E6%AD%A2%E4%B8%83%E5%A4%95%E6%9B%B4%E8%A6%81%E6%9C%9D%E5%A4%95",
-      "practice_angle": "围绕「不止七夕更要朝夕」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%80%BB%E7%90%86%E5%BC%BA%E8%B0%83%E5%8F%B0%E6%B9%BE%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD",
+      "practice_angle": "关于「马来西亚总理强调台湾属于中国」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "中超上海申花0:3北京国安",
-      "hot_str": "862.6万",
+      "title": "世界机器人大会开幕",
+      "hot_str": "912.0万",
       "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B10%3A3%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89",
-      "practice_angle": "围绕「中超上海申花0:3北京国安」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95",
+      "practice_angle": "关于「世界机器人大会开幕」，大多数人支持A观点，你来论证为什么B观点也有道理"
     }
   ]
 }
