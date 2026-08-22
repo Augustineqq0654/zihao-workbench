@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-21 00:34:42",
-  "date": "2026-08-21",
+  "fetch_time": "2026-08-22 00:31:43",
+  "date": "2026-08-22",
   "theme": {
-    "name": "即兴点评",
-    "icon": "⚡",
-    "desc": "60秒不准备，张嘴就评",
-    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
+    "name": "场景演绎",
+    "icon": "🎭",
+    "desc": "设一个角色，从他的视角表达",
+    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
     "tips": [
-      "不要写稿，想到什么说什么",
-      "语速可以慢，但不要停顿太久",
-      "录完听一遍，标记可以改进的地方"
+      "角色要具体：职业、年龄、处境",
+      "用角色的语气和用词说话",
+      "可以加一点表演让画面更强"
     ]
   },
   "topics": [
     {
-      "title": "美这件事我只取悦自己",
-      "hot_str": "1180.4万",
+      "title": "认识一座城从老字号招牌开始",
+      "hot_str": "1203.8万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E7%BE%8E%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%88%91%E5%8F%AA%E5%8F%96%E6%82%A6%E8%87%AA%E5%B7%B1",
-      "practice_angle": "看到「美这件事我只取悦自己」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E8%AE%A4%E8%AF%86%E4%B8%80%E5%BA%A7%E5%9F%8E%E4%BB%8E%E8%80%81%E5%AD%97%E5%8F%B7%E6%8B%9B%E7%89%8C%E5%BC%80%E5%A7%8B",
+      "practice_angle": "围绕「认识一座城从老字号招牌开始」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "我国服务业持续扩能提质",
-      "hot_str": "1149.0万",
+      "title": "2026成都车展正式开幕",
+      "hot_str": "947.5万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9A%E6%8C%81%E7%BB%AD%E6%89%A9%E8%83%BD%E6%8F%90%E8%B4%A8",
-      "practice_angle": "看到「我国服务业持续扩能提质」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 7,
+      "search_url": "https://www.douyin.com/search/2026%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B9%95",
+      "practice_angle": "围绕「2026成都车展正式开幕」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "深度解析黑神话钟馗实机演示",
-      "hot_str": "1054.8万",
+      "title": "手指的方向是自由",
+      "hot_str": "943.7万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-      "practice_angle": "看到「深度解析黑神话钟馗实机演示」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/%E6%89%8B%E6%8C%87%E7%9A%84%E6%96%B9%E5%90%91%E6%98%AF%E8%87%AA%E7%94%B1",
+      "practice_angle": "围绕「手指的方向是自由」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     }
   ]
 }
