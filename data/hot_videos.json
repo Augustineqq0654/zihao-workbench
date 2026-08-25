@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-08-24 00:33:44",
-  "date": "2026-08-24",
+  "fetch_time": "2026-08-25 00:33:36",
+  "date": "2026-08-25",
   "theme": {
-    "name": "故事讲述",
-    "icon": "📖",
-    "desc": "把热点变成一个有冲突的故事",
-    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
+    "name": "知识科普",
+    "icon": "🔬",
+    "desc": "把复杂的热点用大白话讲明白",
+    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
     "tips": [
-      "用第一人称更有代入感",
-      "加入细节让故事有画面感",
-      "结尾留一个让人回味的点"
+      "用一个生活化的比喻开场",
+      "每讲一个概念配一个例子",
+      "最后总结一句金句方便记忆"
     ]
   },
   "topics": [
     {
-      "title": "九月开学早秋穿搭合集",
-      "hot_str": "1147.6万",
+      "title": "文化纳凉拉动文旅消费",
+      "hot_str": "1162.2万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E4%B9%9D%E6%9C%88%E5%BC%80%E5%AD%A6%E6%97%A9%E7%A7%8B%E7%A9%BF%E6%90%AD%E5%90%88%E9%9B%86",
-      "practice_angle": "把「九月开学早秋穿搭合集」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E6%96%87%E5%8C%96%E7%BA%B3%E5%87%89%E6%8B%89%E5%8A%A8%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9",
+      "practice_angle": "用大白话解释「文化纳凉拉动文旅消费」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "BLG 2:1战胜AL",
-      "hot_str": "1069.6万",
+      "title": "第一批新生家长已经在铺床了",
+      "hot_str": "1052.0万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/BLG%202%3A1%E6%88%98%E8%83%9CAL",
-      "practice_angle": "把「BLG 2:1战胜AL」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E5%B7%B2%E7%BB%8F%E5%9C%A8%E9%93%BA%E5%BA%8A%E4%BA%86",
+      "practice_angle": "用大白话解释「第一批新生家长已经在铺床了」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "羊村一直在等我们回家",
-      "hot_str": "939.8万",
+      "title": "我用健身重启人生",
+      "hot_str": "927.1万",
       "level": "爆",
-      "rank": 8,
-      "search_url": "https://www.douyin.com/search/%E7%BE%8A%E6%9D%91%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%AD%89%E6%88%91%E4%BB%AC%E5%9B%9E%E5%AE%B6",
-      "practice_angle": "把「羊村一直在等我们回家」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E6%88%91%E7%94%A8%E5%81%A5%E8%BA%AB%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F",
+      "practice_angle": "用大白话解释「我用健身重启人生」：它到底是什么，为什么发生，对普通人有什么影响"
     }
   ]
 }
