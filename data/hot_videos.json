@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-01 02:21:18",
-  "date": "2026-09-01",
+  "fetch_time": "2026-09-02 01:42:44",
+  "date": "2026-09-02",
   "theme": {
-    "name": "知识科普",
-    "icon": "🔬",
-    "desc": "把复杂的热点用大白话讲明白",
-    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
+    "name": "情感共鸣",
+    "icon": "💗",
+    "desc": "找到热点里的情绪，说出大家想说的话",
+    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
     "tips": [
-      "用一个生活化的比喻开场",
-      "每讲一个概念配一个例子",
-      "最后总结一句金句方便记忆"
+      "先描述一个具体场景再谈感受",
+      "用'你是不是也...'引导共鸣",
+      "情绪要真，不要过度煽情"
     ]
   },
   "topics": [
     {
-      "title": "多架次直升机驰援吉隆灾区",
-      "hot_str": "1114.7万",
+      "title": "新台风科罗旺生成",
+      "hot_str": "1208.2万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E5%A4%9A%E6%9E%B6%E6%AC%A1%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%A9%B0%E6%8F%B4%E5%90%89%E9%9A%86%E7%81%BE%E5%8C%BA",
-      "practice_angle": "用大白话解释「多架次直升机驰援吉隆灾区」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E6%96%B0%E5%8F%B0%E9%A3%8E%E7%A7%91%E7%BD%97%E6%97%BA%E7%94%9F%E6%88%90",
+      "practice_angle": "围绕「新台风科罗旺生成」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     },
     {
-      "title": "分别总是在九月 回忆是思念的愁",
-      "hot_str": "1053.6万",
+      "title": "我的开学第一课观后感",
+      "hot_str": "1057.0万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E5%88%86%E5%88%AB%E6%80%BB%E6%98%AF%E5%9C%A8%E4%B9%9D%E6%9C%88%20%E5%9B%9E%E5%BF%86%E6%98%AF%E6%80%9D%E5%BF%B5%E7%9A%84%E6%84%81",
-      "practice_angle": "用大白话解释「分别总是在九月 回忆是思念的愁」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E8%A7%82%E5%90%8E%E6%84%9F",
+      "practice_angle": "围绕「我的开学第一课观后感」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     },
     {
-      "title": "预习我的早秋穿搭",
-      "hot_str": "933.3万",
+      "title": "开学第一课",
+      "hot_str": "919.2万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E9%A2%84%E4%B9%A0%E6%88%91%E7%9A%84%E6%97%A9%E7%A7%8B%E7%A9%BF%E6%90%AD",
-      "practice_angle": "用大白话解释「预习我的早秋穿搭」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE",
+      "practice_angle": "围绕「开学第一课」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     }
   ]
 }
