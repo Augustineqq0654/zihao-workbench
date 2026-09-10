@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-09 01:52:37",
-  "date": "2026-09-09",
+  "fetch_time": "2026-09-10 01:48:47",
+  "date": "2026-09-10",
   "theme": {
-    "name": "情感共鸣",
-    "icon": "💗",
-    "desc": "找到热点里的情绪，说出大家想说的话",
-    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
+    "name": "反驳辩论",
+    "icon": "⚔️",
+    "desc": "站在对立面，把少数派观点讲清楚",
+    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
     "tips": [
-      "先描述一个具体场景再谈感受",
-      "用'你是不是也...'引导共鸣",
-      "情绪要真，不要过度煽情"
+      "先公平复述对方观点再反驳",
+      "反驳要有事实依据不是抬杠",
+      "结尾可以留一个开放问题"
     ]
   },
   "topics": [
     {
-      "title": "皇马2:1击败国米",
-      "hot_str": "1211.7万",
+      "title": "今天是教师节",
+      "hot_str": "1212.6万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC2%3A1%E5%87%BB%E8%B4%A5%E5%9B%BD%E7%B1%B3",
-      "practice_angle": "围绕「皇马2:1击败国米」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%95%99%E5%B8%88%E8%8A%82",
+      "practice_angle": "关于「今天是教师节」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "香港首任特首董建华逝世",
-      "hot_str": "1078.0万",
+      "title": "抖音达人直击苹果发布会现场",
+      "hot_str": "988.7万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E9%A6%99%E6%B8%AF%E9%A6%96%E4%BB%BB%E7%89%B9%E9%A6%96%E8%91%A3%E5%BB%BA%E5%8D%8E%E9%80%9D%E4%B8%96",
-      "practice_angle": "围绕「香港首任特首董建华逝世」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E8%BE%BE%E4%BA%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+      "practice_angle": "关于「抖音达人直击苹果发布会现场」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "周冬雨马思纯花少再合体",
-      "hot_str": "879.1万",
+      "title": "中国女篮挺进世界杯八强",
+      "hot_str": "774.5万",
       "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E5%91%A8%E5%86%AC%E9%9B%A8%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%8A%B1%E5%B0%91%E5%86%8D%E5%90%88%E4%BD%93",
-      "practice_angle": "围绕「周冬雨马思纯花少再合体」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%8C%BA%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA",
+      "practice_angle": "关于「中国女篮挺进世界杯八强」，大多数人支持A观点，你来论证为什么B观点也有道理"
     }
   ]
 }
