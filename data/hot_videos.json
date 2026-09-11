@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-10 01:48:47",
-  "date": "2026-09-10",
+  "fetch_time": "2026-09-11 01:47:44",
+  "date": "2026-09-11",
   "theme": {
-    "name": "反驳辩论",
-    "icon": "⚔️",
-    "desc": "站在对立面，把少数派观点讲清楚",
-    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
+    "name": "即兴点评",
+    "icon": "⚡",
+    "desc": "60秒不准备，张嘴就评",
+    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
     "tips": [
-      "先公平复述对方观点再反驳",
-      "反驳要有事实依据不是抬杠",
-      "结尾可以留一个开放问题"
+      "不要写稿，想到什么说什么",
+      "语速可以慢，但不要停顿太久",
+      "录完听一遍，标记可以改进的地方"
     ]
   },
   "topics": [
     {
-      "title": "今天是教师节",
-      "hot_str": "1212.6万",
+      "title": "中国女篮不敌法国无缘世界杯四强",
+      "hot_str": "1201.4万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%95%99%E5%B8%88%E8%8A%82",
-      "practice_angle": "关于「今天是教师节」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
+      "practice_angle": "看到「中国女篮不敌法国无缘世界杯四强」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "抖音达人直击苹果发布会现场",
-      "hot_str": "988.7万",
+      "title": "金融强国建设十五五规划出台",
+      "hot_str": "1110.0万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E8%BE%BE%E4%BA%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA",
-      "practice_angle": "关于「抖音达人直击苹果发布会现场」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E9%87%91%E8%9E%8D%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%87%BA%E5%8F%B0",
+      "practice_angle": "看到「金融强国建设十五五规划出台」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "中国女篮挺进世界杯八强",
-      "hot_str": "774.5万",
+      "title": "证监会：加快建设世界一流交易所",
+      "hot_str": "1047.6万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%8C%BA%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA",
-      "practice_angle": "关于「中国女篮挺进世界杯八强」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E4%BA%A4%E6%98%93%E6%89%80",
+      "practice_angle": "看到「证监会：加快建设世界一流交易所」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     }
   ]
 }
