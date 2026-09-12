@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-11 01:47:44",
-  "date": "2026-09-11",
+  "fetch_time": "2026-09-12 01:53:19",
+  "date": "2026-09-12",
   "theme": {
-    "name": "即兴点评",
-    "icon": "⚡",
-    "desc": "60秒不准备，张嘴就评",
-    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
+    "name": "场景演绎",
+    "icon": "🎭",
+    "desc": "设一个角色，从他的视角表达",
+    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
     "tips": [
-      "不要写稿，想到什么说什么",
-      "语速可以慢，但不要停顿太久",
-      "录完听一遍，标记可以改进的地方"
+      "角色要具体：职业、年龄、处境",
+      "用角色的语气和用词说话",
+      "可以加一点表演让画面更强"
     ]
   },
   "topics": [
     {
-      "title": "中国女篮不敌法国无缘世界杯四强",
-      "hot_str": "1201.4万",
+      "title": "世界是一本巨大的教科书",
+      "hot_str": "1142.4万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-      "practice_angle": "看到「中国女篮不敌法国无缘世界杯四强」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E6%9C%AC%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%95%99%E7%A7%91%E4%B9%A6",
+      "practice_angle": "围绕「世界是一本巨大的教科书」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "金融强国建设十五五规划出台",
-      "hot_str": "1110.0万",
+      "title": "中方回应日公民赴华签证费上调",
+      "hot_str": "826.9万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E9%87%91%E8%9E%8D%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%87%BA%E5%8F%B0",
-      "practice_angle": "看到「金融强国建设十五五规划出台」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 7,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E5%85%AC%E6%B0%91%E8%B5%B4%E5%8D%8E%E7%AD%BE%E8%AF%81%E8%B4%B9%E4%B8%8A%E8%B0%83",
+      "practice_angle": "围绕「中方回应日公民赴华签证费上调」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "证监会：加快建设世界一流交易所",
-      "hot_str": "1047.6万",
+      "title": "2026大海道拉力赛正式完赛",
+      "hot_str": "782.3万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E4%BA%A4%E6%98%93%E6%89%80",
-      "practice_angle": "看到「证监会：加快建设世界一流交易所」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/2026%E5%A4%A7%E6%B5%B7%E9%81%93%E6%8B%89%E5%8A%9B%E8%B5%9B%E6%AD%A3%E5%BC%8F%E5%AE%8C%E8%B5%9B",
+      "practice_angle": "围绕「2026大海道拉力赛正式完赛」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     }
   ]
 }
