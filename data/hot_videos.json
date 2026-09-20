@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-19 01:58:38",
-  "date": "2026-09-19",
+  "fetch_time": "2026-09-20 02:02:11",
+  "date": "2026-09-20",
   "theme": {
-    "name": "场景演绎",
-    "icon": "🎭",
-    "desc": "设一个角色，从他的视角表达",
-    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
+    "name": "观点输出",
+    "icon": "🎯",
+    "desc": "选定一个热点，明确表达你的立场",
+    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
     "tips": [
-      "角色要具体：职业、年龄、处境",
-      "用角色的语气和用词说话",
-      "可以加一点表演让画面更强"
+      "开头直接亮观点，不绕弯子",
+      "每个理由配一个具体例子",
+      "结尾给行动建议，让观众有获得感"
     ]
   },
   "topics": [
     {
-      "title": "来大理追一场会游动的洱海星河",
-      "hot_str": "1121.2万",
+      "title": "布莱顿3:0完胜阿森纳",
+      "hot_str": "1217.7万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E6%9D%A5%E5%A4%A7%E7%90%86%E8%BF%BD%E4%B8%80%E5%9C%BA%E4%BC%9A%E6%B8%B8%E5%8A%A8%E7%9A%84%E6%B4%B1%E6%B5%B7%E6%98%9F%E6%B2%B3",
-      "practice_angle": "围绕「来大理追一场会游动的洱海星河」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E5%B8%83%E8%8E%B1%E9%A1%BF3%3A0%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3",
+      "practice_angle": "就「布莱顿3:0完胜阿森纳」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     },
     {
-      "title": "沈鼓集团相关异常账户暂停交易",
-      "hot_str": "887.1万",
+      "title": "你们公司发月饼了吗",
+      "hot_str": "1064.8万",
+      "level": "爆",
+      "rank": 4,
+      "search_url": "https://www.douyin.com/search/%E4%BD%A0%E4%BB%AC%E5%85%AC%E5%8F%B8%E5%8F%91%E6%9C%88%E9%A5%BC%E4%BA%86%E5%90%97",
+      "practice_angle": "就「你们公司发月饼了吗」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+    },
+    {
+      "title": "2026亚运会开幕式",
+      "hot_str": "828.1万",
       "level": "爆",
       "rank": 7,
-      "search_url": "https://www.douyin.com/search/%E6%B2%88%E9%BC%93%E9%9B%86%E5%9B%A2%E7%9B%B8%E5%85%B3%E5%BC%82%E5%B8%B8%E8%B4%A6%E6%88%B7%E6%9A%82%E5%81%9C%E4%BA%A4%E6%98%93",
-      "practice_angle": "围绕「沈鼓集团相关异常账户暂停交易」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
-    },
-    {
-      "title": "媒体评菲律宾挑衅中国",
-      "hot_str": "812.0万",
-      "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD",
-      "practice_angle": "围绕「媒体评菲律宾挑衅中国」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "search_url": "https://www.douyin.com/search/2026%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F",
+      "practice_angle": "就「2026亚运会开幕式」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     }
   ]
 }
