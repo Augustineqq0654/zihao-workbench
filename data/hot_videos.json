@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-20 02:02:11",
-  "date": "2026-09-20",
+  "fetch_time": "2026-09-21 02:02:58",
+  "date": "2026-09-21",
   "theme": {
-    "name": "观点输出",
-    "icon": "🎯",
-    "desc": "选定一个热点，明确表达你的立场",
-    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
+    "name": "故事讲述",
+    "icon": "📖",
+    "desc": "把热点变成一个有冲突的故事",
+    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
     "tips": [
-      "开头直接亮观点，不绕弯子",
-      "每个理由配一个具体例子",
-      "结尾给行动建议，让观众有获得感"
+      "用第一人称更有代入感",
+      "加入细节让故事有画面感",
+      "结尾留一个让人回味的点"
     ]
   },
   "topics": [
     {
-      "title": "布莱顿3:0完胜阿森纳",
-      "hot_str": "1217.7万",
+      "title": "国庆国旗氛围已上线",
+      "hot_str": "1132.9万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E5%B8%83%E8%8E%B1%E9%A1%BF3%3A0%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3",
-      "practice_angle": "就「布莱顿3:0完胜阿森纳」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%9B%BD%E6%97%97%E6%B0%9B%E5%9B%B4%E5%B7%B2%E4%B8%8A%E7%BA%BF",
+      "practice_angle": "把「国庆国旗氛围已上线」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     },
     {
-      "title": "你们公司发月饼了吗",
-      "hot_str": "1064.8万",
+      "title": "徐嘉余100米仰泳夺金",
+      "hot_str": "1054.8万",
       "level": "爆",
-      "rank": 4,
-      "search_url": "https://www.douyin.com/search/%E4%BD%A0%E4%BB%AC%E5%85%AC%E5%8F%B8%E5%8F%91%E6%9C%88%E9%A5%BC%E4%BA%86%E5%90%97",
-      "practice_angle": "就「你们公司发月饼了吗」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E5%BE%90%E5%98%89%E4%BD%99100%E7%B1%B3%E4%BB%B0%E6%B3%B3%E5%A4%BA%E9%87%91",
+      "practice_angle": "把「徐嘉余100米仰泳夺金」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     },
     {
-      "title": "2026亚运会开幕式",
-      "hot_str": "828.1万",
+      "title": "桂花香飘散在风里",
+      "hot_str": "919.1万",
       "level": "爆",
-      "rank": 7,
-      "search_url": "https://www.douyin.com/search/2026%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F",
-      "practice_angle": "就「2026亚运会开幕式」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 8,
+      "search_url": "https://www.douyin.com/search/%E6%A1%82%E8%8A%B1%E9%A6%99%E9%A3%98%E6%95%A3%E5%9C%A8%E9%A3%8E%E9%87%8C",
+      "practice_angle": "把「桂花香飘散在风里」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     }
   ]
 }
