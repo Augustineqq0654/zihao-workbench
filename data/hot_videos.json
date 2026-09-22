@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-21 02:02:58",
-  "date": "2026-09-21",
+  "fetch_time": "2026-09-22 02:09:10",
+  "date": "2026-09-22",
   "theme": {
-    "name": "故事讲述",
-    "icon": "📖",
-    "desc": "把热点变成一个有冲突的故事",
-    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
+    "name": "知识科普",
+    "icon": "🔬",
+    "desc": "把复杂的热点用大白话讲明白",
+    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
     "tips": [
-      "用第一人称更有代入感",
-      "加入细节让故事有画面感",
-      "结尾留一个让人回味的点"
+      "用一个生活化的比喻开场",
+      "每讲一个概念配一个例子",
+      "最后总结一句金句方便记忆"
     ]
   },
   "topics": [
     {
-      "title": "国庆国旗氛围已上线",
-      "hot_str": "1132.9万",
+      "title": "首批数据产权身份证发放",
+      "hot_str": "1138.8万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%9B%BD%E6%97%97%E6%B0%9B%E5%9B%B4%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-      "practice_angle": "把「国庆国旗氛围已上线」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E9%A6%96%E6%89%B9%E6%95%B0%E6%8D%AE%E4%BA%A7%E6%9D%83%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%91%E6%94%BE",
+      "practice_angle": "用大白话解释「首批数据产权身份证发放」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "徐嘉余100米仰泳夺金",
-      "hot_str": "1054.8万",
+      "title": "中国女排将与日本女排争夺金牌",
+      "hot_str": "1054.7万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E5%BE%90%E5%98%89%E4%BD%99100%E7%B1%B3%E4%BB%B0%E6%B3%B3%E5%A4%BA%E9%87%91",
-      "practice_angle": "把「徐嘉余100米仰泳夺金」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%B0%86%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%E4%BA%89%E5%A4%BA%E9%87%91%E7%89%8C",
+      "practice_angle": "用大白话解释「中国女排将与日本女排争夺金牌」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "桂花香飘散在风里",
-      "hot_str": "919.1万",
+      "title": "首届糯门零食大赛",
+      "hot_str": "926.9万",
       "level": "爆",
-      "rank": 8,
-      "search_url": "https://www.douyin.com/search/%E6%A1%82%E8%8A%B1%E9%A6%99%E9%A3%98%E6%95%A3%E5%9C%A8%E9%A3%8E%E9%87%8C",
-      "practice_angle": "把「桂花香飘散在风里」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E7%B3%AF%E9%97%A8%E9%9B%B6%E9%A3%9F%E5%A4%A7%E8%B5%9B",
+      "practice_angle": "用大白话解释「首届糯门零食大赛」：它到底是什么，为什么发生，对普通人有什么影响"
     }
   ]
 }
