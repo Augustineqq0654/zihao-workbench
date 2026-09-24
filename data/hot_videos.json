@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-23 02:08:42",
-  "date": "2026-09-23",
+  "fetch_time": "2026-09-24 01:55:54",
+  "date": "2026-09-24",
   "theme": {
-    "name": "情感共鸣",
-    "icon": "💗",
-    "desc": "找到热点里的情绪，说出大家想说的话",
-    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
+    "name": "反驳辩论",
+    "icon": "⚔️",
+    "desc": "站在对立面，把少数派观点讲清楚",
+    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
     "tips": [
-      "先描述一个具体场景再谈感受",
-      "用'你是不是也...'引导共鸣",
-      "情绪要真，不要过度煽情"
+      "先公平复述对方观点再反驳",
+      "反驳要有事实依据不是抬杠",
+      "结尾可以留一个开放问题"
     ]
   },
   "topics": [
     {
-      "title": "和好友一起打开川西慢旅行",
-      "hot_str": "1163.2万",
+      "title": "中秋来庐山看千里江山",
+      "hot_str": "1144.3万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E5%92%8C%E5%A5%BD%E5%8F%8B%E4%B8%80%E8%B5%B7%E6%89%93%E5%BC%80%E5%B7%9D%E8%A5%BF%E6%85%A2%E6%97%85%E8%A1%8C",
-      "practice_angle": "围绕「和好友一起打开川西慢旅行」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%9D%A5%E5%BA%90%E5%B1%B1%E7%9C%8B%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1",
+      "practice_angle": "关于「中秋来庐山看千里江山」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "中国U23男足vs阿联酋U23",
-      "hot_str": "1054.5万",
+      "title": "已严肃进入假期状态",
+      "hot_str": "1052.2万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3vs%E9%98%BF%E8%81%94%E9%85%8BU23",
-      "practice_angle": "围绕「中国U23男足vs阿联酋U23」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E5%B7%B2%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E5%81%87%E6%9C%9F%E7%8A%B6%E6%80%81",
+      "practice_angle": "关于「已严肃进入假期状态」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "今日秋分",
-      "hot_str": "936.6万",
+      "title": "中国农民丰收节看丰收底气",
+      "hot_str": "901.1万",
       "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E7%A7%8B%E5%88%86",
-      "practice_angle": "围绕「今日秋分」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E4%B8%B0%E6%94%B6%E8%8A%82%E7%9C%8B%E4%B8%B0%E6%94%B6%E5%BA%95%E6%B0%94",
+      "practice_angle": "关于「中国农民丰收节看丰收底气」，大多数人支持A观点，你来论证为什么B观点也有道理"
     }
   ]
 }
