@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-24 01:55:54",
-  "date": "2026-09-24",
+  "fetch_time": "2026-09-25 02:12:33",
+  "date": "2026-09-25",
   "theme": {
-    "name": "反驳辩论",
-    "icon": "⚔️",
-    "desc": "站在对立面，把少数派观点讲清楚",
-    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
+    "name": "即兴点评",
+    "icon": "⚡",
+    "desc": "60秒不准备，张嘴就评",
+    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
     "tips": [
-      "先公平复述对方观点再反驳",
-      "反驳要有事实依据不是抬杠",
-      "结尾可以留一个开放问题"
+      "不要写稿，想到什么说什么",
+      "语速可以慢，但不要停顿太久",
+      "录完听一遍，标记可以改进的地方"
     ]
   },
   "topics": [
     {
-      "title": "中秋来庐山看千里江山",
-      "hot_str": "1144.3万",
+      "title": "中美元首会谈",
+      "hot_str": "1163.6万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%9D%A5%E5%BA%90%E5%B1%B1%E7%9C%8B%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1",
-      "practice_angle": "关于「中秋来庐山看千里江山」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%B0%88",
+      "practice_angle": "看到「中美元首会谈」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "已严肃进入假期状态",
-      "hot_str": "1052.2万",
+      "title": "先进制造业赋能中国经济",
+      "hot_str": "1109.8万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E5%B7%B2%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E5%81%87%E6%9C%9F%E7%8A%B6%E6%80%81",
-      "practice_angle": "关于「已严肃进入假期状态」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%E4%B8%9A%E8%B5%8B%E8%83%BD%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
+      "practice_angle": "看到「先进制造业赋能中国经济」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "中国农民丰收节看丰收底气",
-      "hot_str": "901.1万",
+      "title": "张展硕亚运会六金王",
+      "hot_str": "1039.0万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E4%B8%B0%E6%94%B6%E8%8A%82%E7%9C%8B%E4%B8%B0%E6%94%B6%E5%BA%95%E6%B0%94",
-      "practice_angle": "关于「中国农民丰收节看丰收底气」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E5%BC%A0%E5%B1%95%E7%A1%95%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AD%E9%87%91%E7%8E%8B",
+      "practice_angle": "看到「张展硕亚运会六金王」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     }
   ]
 }
