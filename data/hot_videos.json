@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-26 02:18:08",
-  "date": "2026-09-26",
+  "fetch_time": "2026-09-27 02:12:27",
+  "date": "2026-09-27",
   "theme": {
-    "name": "场景演绎",
-    "icon": "🎭",
-    "desc": "设一个角色，从他的视角表达",
-    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
+    "name": "观点输出",
+    "icon": "🎯",
+    "desc": "选定一个热点，明确表达你的立场",
+    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
     "tips": [
-      "角色要具体：职业、年龄、处境",
-      "用角色的语气和用词说话",
-      "可以加一点表演让画面更强"
+      "开头直接亮观点，不绕弯子",
+      "每个理由配一个具体例子",
+      "结尾给行动建议，让观众有获得感"
     ]
   },
   "topics": [
     {
-      "title": "档案里的中美渊源",
-      "hot_str": "1173.5万",
+      "title": "林诗栋蒯曼混双夺金",
+      "hot_str": "1220.8万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E6%A1%A3%E6%A1%88%E9%87%8C%E7%9A%84%E4%B8%AD%E7%BE%8E%E6%B8%8A%E6%BA%90",
-      "practice_angle": "围绕「档案里的中美渊源」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E6%B7%B7%E5%8F%8C%E5%A4%BA%E9%87%91",
+      "practice_angle": "就「林诗栋蒯曼混双夺金」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     },
     {
-      "title": "张展硕的抖音bgm是山东王",
-      "hot_str": "781.2万",
+      "title": "王楚钦晋级亚运男单4强",
+      "hot_str": "1089.9万",
+      "level": "爆",
+      "rank": 4,
+      "search_url": "https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E7%94%B7%E5%8D%954%E5%BC%BA",
+      "practice_angle": "就「王楚钦晋级亚运男单4强」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+    },
+    {
+      "title": "你在世界的哪一角过中秋",
+      "hot_str": "918.1万",
       "level": "爆",
       "rank": 7,
-      "search_url": "https://www.douyin.com/search/%E5%BC%A0%E5%B1%95%E7%A1%95%E7%9A%84%E6%8A%96%E9%9F%B3bgm%E6%98%AF%E5%B1%B1%E4%B8%9C%E7%8E%8B",
-      "practice_angle": "围绕「张展硕的抖音bgm是山东王」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
-    },
-    {
-      "title": "把我的假期日常拍出电影感",
-      "hot_str": "775.6万",
-      "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E6%8A%8A%E6%88%91%E7%9A%84%E5%81%87%E6%9C%9F%E6%97%A5%E5%B8%B8%E6%8B%8D%E5%87%BA%E7%94%B5%E5%BD%B1%E6%84%9F",
-      "practice_angle": "围绕「把我的假期日常拍出电影感」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "search_url": "https://www.douyin.com/search/%E4%BD%A0%E5%9C%A8%E4%B8%96%E7%95%8C%E7%9A%84%E5%93%AA%E4%B8%80%E8%A7%92%E8%BF%87%E4%B8%AD%E7%A7%8B",
+      "practice_angle": "就「你在世界的哪一角过中秋」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     }
   ]
 }
