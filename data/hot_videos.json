@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-27 02:12:27",
-  "date": "2026-09-27",
+  "fetch_time": "2026-09-28 02:17:22",
+  "date": "2026-09-28",
   "theme": {
-    "name": "观点输出",
-    "icon": "🎯",
-    "desc": "选定一个热点，明确表达你的立场",
-    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
+    "name": "故事讲述",
+    "icon": "📖",
+    "desc": "把热点变成一个有冲突的故事",
+    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
     "tips": [
-      "开头直接亮观点，不绕弯子",
-      "每个理由配一个具体例子",
-      "结尾给行动建议，让观众有获得感"
+      "用第一人称更有代入感",
+      "加入细节让故事有画面感",
+      "结尾留一个让人回味的点"
     ]
   },
   "topics": [
     {
-      "title": "林诗栋蒯曼混双夺金",
-      "hot_str": "1220.8万",
+      "title": "9月30号国庆前最后一天belike",
+      "hot_str": "1132.9万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E6%B7%B7%E5%8F%8C%E5%A4%BA%E9%87%91",
-      "practice_angle": "就「林诗栋蒯曼混双夺金」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/9%E6%9C%8830%E5%8F%B7%E5%9B%BD%E5%BA%86%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9belike",
+      "practice_angle": "把「9月30号国庆前最后一天belike」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     },
     {
-      "title": "王楚钦晋级亚运男单4强",
-      "hot_str": "1089.9万",
+      "title": "严子怡破纪录夺金",
+      "hot_str": "1056.5万",
       "level": "爆",
-      "rank": 4,
-      "search_url": "https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E7%94%B7%E5%8D%954%E5%BC%BA",
-      "practice_angle": "就「王楚钦晋级亚运男单4强」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E9%87%91",
+      "practice_angle": "把「严子怡破纪录夺金」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     },
     {
-      "title": "你在世界的哪一角过中秋",
-      "hot_str": "918.1万",
+      "title": "小长假超自然路书",
+      "hot_str": "926.7万",
       "level": "爆",
-      "rank": 7,
-      "search_url": "https://www.douyin.com/search/%E4%BD%A0%E5%9C%A8%E4%B8%96%E7%95%8C%E7%9A%84%E5%93%AA%E4%B8%80%E8%A7%92%E8%BF%87%E4%B8%AD%E7%A7%8B",
-      "practice_angle": "就「你在世界的哪一角过中秋」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 8,
+      "search_url": "https://www.douyin.com/search/%E5%B0%8F%E9%95%BF%E5%81%87%E8%B6%85%E8%87%AA%E7%84%B6%E8%B7%AF%E4%B9%A6",
+      "practice_angle": "把「小长假超自然路书」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     }
   ]
 }
