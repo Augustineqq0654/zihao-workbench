@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-28 02:17:22",
-  "date": "2026-09-28",
+  "fetch_time": "2026-09-29 03:01:53",
+  "date": "2026-09-29",
   "theme": {
-    "name": "故事讲述",
-    "icon": "📖",
-    "desc": "把热点变成一个有冲突的故事",
-    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
+    "name": "知识科普",
+    "icon": "🔬",
+    "desc": "把复杂的热点用大白话讲明白",
+    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
     "tips": [
-      "用第一人称更有代入感",
-      "加入细节让故事有画面感",
-      "结尾留一个让人回味的点"
+      "用一个生活化的比喻开场",
+      "每讲一个概念配一个例子",
+      "最后总结一句金句方便记忆"
     ]
   },
   "topics": [
     {
-      "title": "9月30号国庆前最后一天belike",
-      "hot_str": "1132.9万",
+      "title": "70万人点赞的跨国情谊",
+      "hot_str": "1129.1万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/9%E6%9C%8830%E5%8F%B7%E5%9B%BD%E5%BA%86%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9belike",
-      "practice_angle": "把「9月30号国庆前最后一天belike」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/70%E4%B8%87%E4%BA%BA%E7%82%B9%E8%B5%9E%E7%9A%84%E8%B7%A8%E5%9B%BD%E6%83%85%E8%B0%8A",
+      "practice_angle": "用大白话解释「70万人点赞的跨国情谊」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "严子怡破纪录夺金",
-      "hot_str": "1056.5万",
+      "title": "全体王者人都来用亚运金牌进行曲",
+      "hot_str": "1005.0万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E9%87%91",
-      "practice_angle": "把「严子怡破纪录夺金」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E5%85%A8%E4%BD%93%E7%8E%8B%E8%80%85%E4%BA%BA%E9%83%BD%E6%9D%A5%E7%94%A8%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2",
+      "practice_angle": "用大白话解释「全体王者人都来用亚运金牌进行曲」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "小长假超自然路书",
-      "hot_str": "926.7万",
+      "title": "又被我掌握了国庆出片技巧",
+      "hot_str": "780.1万",
       "level": "爆",
-      "rank": 8,
-      "search_url": "https://www.douyin.com/search/%E5%B0%8F%E9%95%BF%E5%81%87%E8%B6%85%E8%87%AA%E7%84%B6%E8%B7%AF%E4%B9%A6",
-      "practice_angle": "把「小长假超自然路书」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E5%8F%88%E8%A2%AB%E6%88%91%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%9B%BD%E5%BA%86%E5%87%BA%E7%89%87%E6%8A%80%E5%B7%A7",
+      "practice_angle": "用大白话解释「又被我掌握了国庆出片技巧」：它到底是什么，为什么发生，对普通人有什么影响"
     }
   ]
 }
