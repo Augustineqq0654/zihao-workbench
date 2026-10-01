@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-09-30 02:43:35",
-  "date": "2026-09-30",
+  "fetch_time": "2026-10-01 02:48:48",
+  "date": "2026-10-01",
   "theme": {
-    "name": "情感共鸣",
-    "icon": "💗",
-    "desc": "找到热点里的情绪，说出大家想说的话",
-    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
+    "name": "反驳辩论",
+    "icon": "⚔️",
+    "desc": "站在对立面，把少数派观点讲清楚",
+    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
     "tips": [
-      "先描述一个具体场景再谈感受",
-      "用'你是不是也...'引导共鸣",
-      "情绪要真，不要过度煽情"
+      "先公平复述对方观点再反驳",
+      "反驳要有事实依据不是抬杠",
+      "结尾可以留一个开放问题"
     ]
   },
   "topics": [
     {
-      "title": "住房贴息贷款什么意思",
-      "hot_str": "1210.8万",
+      "title": "国庆节快乐",
+      "hot_str": "1212.7万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E4%BD%8F%E6%88%BF%E8%B4%B4%E6%81%AF%E8%B4%B7%E6%AC%BE%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-      "practice_angle": "围绕「住房贴息贷款什么意思」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90",
+      "practice_angle": "关于「国庆节快乐」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
       "title": "最好的祝福献给祖国",
-      "hot_str": "1053.3万",
+      "hot_str": "929.5万",
       "level": "爆",
-      "rank": 5,
+      "rank": 6,
       "search_url": "https://www.douyin.com/search/%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD",
-      "practice_angle": "围绕「最好的祝福献给祖国」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "practice_angle": "关于「最好的祝福献给祖国」，大多数人支持A观点，你来论证为什么B观点也有道理"
     },
     {
-      "title": "我的玩心满电了",
-      "hot_str": "919.3万",
+      "title": "假期一起holymoly",
+      "hot_str": "906.5万",
       "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%8E%A9%E5%BF%83%E6%BB%A1%E7%94%B5%E4%BA%86",
-      "practice_angle": "围绕「我的玩心满电了」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly",
+      "practice_angle": "关于「假期一起holymoly」，大多数人支持A观点，你来论证为什么B观点也有道理"
     }
   ]
 }
