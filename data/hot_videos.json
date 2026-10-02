@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-01 02:48:48",
-  "date": "2026-10-01",
+  "fetch_time": "2026-10-02 02:52:00",
+  "date": "2026-10-02",
   "theme": {
-    "name": "反驳辩论",
-    "icon": "⚔️",
-    "desc": "站在对立面，把少数派观点讲清楚",
-    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
+    "name": "即兴点评",
+    "icon": "⚡",
+    "desc": "60秒不准备，张嘴就评",
+    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
     "tips": [
-      "先公平复述对方观点再反驳",
-      "反驳要有事实依据不是抬杠",
-      "结尾可以留一个开放问题"
+      "不要写稿，想到什么说什么",
+      "语速可以慢，但不要停顿太久",
+      "录完听一遍，标记可以改进的地方"
     ]
   },
   "topics": [
     {
-      "title": "国庆节快乐",
-      "hot_str": "1212.7万",
+      "title": "晒出你的武汉国庆烟花大片",
+      "hot_str": "1208.5万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90",
-      "practice_angle": "关于「国庆节快乐」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87",
+      "practice_angle": "看到「晒出你的武汉国庆烟花大片」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "最好的祝福献给祖国",
-      "hot_str": "929.5万",
+      "title": "最骄傲的颜色来自山河",
+      "hot_str": "1139.6万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD",
-      "practice_angle": "关于「最好的祝福献给祖国」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E6%9C%80%E9%AA%84%E5%82%B2%E7%9A%84%E9%A2%9C%E8%89%B2%E6%9D%A5%E8%87%AA%E5%B1%B1%E6%B2%B3",
+      "practice_angle": "看到「最骄傲的颜色来自山河」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "假期一起holymoly",
-      "hot_str": "906.5万",
+      "title": "国庆一起合唱我和我的祖国",
+      "hot_str": "1049.8万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly",
-      "practice_angle": "关于「假期一起holymoly」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%B8%80%E8%B5%B7%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD",
+      "practice_angle": "看到「国庆一起合唱我和我的祖国」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     }
   ]
 }
