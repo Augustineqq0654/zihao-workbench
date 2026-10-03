@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-02 02:52:00",
-  "date": "2026-10-02",
+  "fetch_time": "2026-10-03 02:38:27",
+  "date": "2026-10-03",
   "theme": {
-    "name": "即兴点评",
-    "icon": "⚡",
-    "desc": "60秒不准备，张嘴就评",
-    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
+    "name": "场景演绎",
+    "icon": "🎭",
+    "desc": "设一个角色，从他的视角表达",
+    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
     "tips": [
-      "不要写稿，想到什么说什么",
-      "语速可以慢，但不要停顿太久",
-      "录完听一遍，标记可以改进的地方"
+      "角色要具体：职业、年龄、处境",
+      "用角色的语气和用词说话",
+      "可以加一点表演让画面更强"
     ]
   },
   "topics": [
     {
-      "title": "晒出你的武汉国庆烟花大片",
-      "hot_str": "1208.5万",
+      "title": "全世界都知道中国人放假了",
+      "hot_str": "1210.0万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87",
-      "practice_angle": "看到「晒出你的武汉国庆烟花大片」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86",
+      "practice_angle": "围绕「全世界都知道中国人放假了」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "最骄傲的颜色来自山河",
-      "hot_str": "1139.6万",
+      "title": "中国功夫献礼祖国",
+      "hot_str": "916.9万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E6%9C%80%E9%AA%84%E5%82%B2%E7%9A%84%E9%A2%9C%E8%89%B2%E6%9D%A5%E8%87%AA%E5%B1%B1%E6%B2%B3",
-      "practice_angle": "看到「最骄傲的颜色来自山河」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 7,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E7%8C%AE%E7%A4%BC%E7%A5%96%E5%9B%BD",
+      "practice_angle": "围绕「中国功夫献礼祖国」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "国庆一起合唱我和我的祖国",
-      "hot_str": "1049.8万",
+      "title": "假期色彩出游穿搭示范",
+      "hot_str": "905.8万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%B8%80%E8%B5%B7%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD",
-      "practice_angle": "看到「国庆一起合唱我和我的祖国」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E8%89%B2%E5%BD%A9%E5%87%BA%E6%B8%B8%E7%A9%BF%E6%90%AD%E7%A4%BA%E8%8C%83",
+      "practice_angle": "围绕「假期色彩出游穿搭示范」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     }
   ]
 }
