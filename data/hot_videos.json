@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-03 02:38:27",
-  "date": "2026-10-03",
+  "fetch_time": "2026-10-04 03:09:42",
+  "date": "2026-10-04",
   "theme": {
-    "name": "场景演绎",
-    "icon": "🎭",
-    "desc": "设一个角色，从他的视角表达",
-    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
+    "name": "观点输出",
+    "icon": "🎯",
+    "desc": "选定一个热点，明确表达你的立场",
+    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
     "tips": [
-      "角色要具体：职业、年龄、处境",
-      "用角色的语气和用词说话",
-      "可以加一点表演让画面更强"
+      "开头直接亮观点，不绕弯子",
+      "每个理由配一个具体例子",
+      "结尾给行动建议，让观众有获得感"
     ]
   },
   "topics": [
     {
-      "title": "全世界都知道中国人放假了",
-      "hot_str": "1210.0万",
+      "title": "当我在天津解放桥吹奏歌唱祖国",
+      "hot_str": "1206.9万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86",
-      "practice_angle": "围绕「全世界都知道中国人放假了」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%9C%A8%E5%A4%A9%E6%B4%A5%E8%A7%A3%E6%94%BE%E6%A1%A5%E5%90%B9%E5%A5%8F%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD",
+      "practice_angle": "就「当我在天津解放桥吹奏歌唱祖国」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     },
     {
-      "title": "中国功夫献礼祖国",
-      "hot_str": "916.9万",
+      "title": "郭朴获霹雳舞女子个人金牌",
+      "hot_str": "1118.8万",
+      "level": "爆",
+      "rank": 4,
+      "search_url": "https://www.douyin.com/search/%E9%83%AD%E6%9C%B4%E8%8E%B7%E9%9C%B9%E9%9B%B3%E8%88%9E%E5%A5%B3%E5%AD%90%E4%B8%AA%E4%BA%BA%E9%87%91%E7%89%8C",
+      "practice_angle": "就「郭朴获霹雳舞女子个人金牌」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+    },
+    {
+      "title": "NBA季前赛热火129:105猛龙",
+      "hot_str": "935.1万",
       "level": "爆",
       "rank": 7,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E7%8C%AE%E7%A4%BC%E7%A5%96%E5%9B%BD",
-      "practice_angle": "围绕「中国功夫献礼祖国」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
-    },
-    {
-      "title": "假期色彩出游穿搭示范",
-      "hot_str": "905.8万",
-      "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E8%89%B2%E5%BD%A9%E5%87%BA%E6%B8%B8%E7%A9%BF%E6%90%AD%E7%A4%BA%E8%8C%83",
-      "practice_angle": "围绕「假期色彩出游穿搭示范」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "search_url": "https://www.douyin.com/search/NBA%E5%AD%A3%E5%89%8D%E8%B5%9B%E7%83%AD%E7%81%AB129%3A105%E7%8C%9B%E9%BE%99",
+      "practice_angle": "就「NBA季前赛热火129:105猛龙」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     }
   ]
 }
