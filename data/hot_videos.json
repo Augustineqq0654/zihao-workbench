@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-08 03:18:00",
-  "date": "2026-10-08",
+  "fetch_time": "2026-10-09 03:23:54",
+  "date": "2026-10-09",
   "theme": {
-    "name": "反驳辩论",
-    "icon": "⚔️",
-    "desc": "站在对立面，把少数派观点讲清楚",
-    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
+    "name": "即兴点评",
+    "icon": "⚡",
+    "desc": "60秒不准备，张嘴就评",
+    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
     "tips": [
-      "先公平复述对方观点再反驳",
-      "反驳要有事实依据不是抬杠",
-      "结尾可以留一个开放问题"
+      "不要写稿，想到什么说什么",
+      "语速可以慢，但不要停顿太久",
+      "录完听一遍，标记可以改进的地方"
     ]
   },
   "topics": [
     {
-      "title": "中国游中国购风靡全球",
-      "hot_str": "1099.2万",
+      "title": "人要长多大才会不恋家",
+      "hot_str": "1199.3万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%B8%B8%E4%B8%AD%E5%9B%BD%E8%B4%AD%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83",
-      "practice_angle": "关于「中国游中国购风靡全球」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E4%BA%BA%E8%A6%81%E9%95%BF%E5%A4%9A%E5%A4%A7%E6%89%8D%E4%BC%9A%E4%B8%8D%E6%81%8B%E5%AE%B6",
+      "practice_angle": "看到「人要长多大才会不恋家」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "吴宜泽许凯CBL同台作战",
-      "hot_str": "915.4万",
+      "title": "国庆假日消费新意十足",
+      "hot_str": "1110.3万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD%E8%AE%B8%E5%87%AFCBL%E5%90%8C%E5%8F%B0%E4%BD%9C%E6%88%98",
-      "practice_angle": "关于「吴宜泽许凯CBL同台作战」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E6%96%B0%E6%84%8F%E5%8D%81%E8%B6%B3",
+      "practice_angle": "看到「国庆假日消费新意十足」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "U17国足0:3不敌阿根廷",
-      "hot_str": "860.0万",
+      "title": "我镜头里的乡村田园",
+      "hot_str": "1044.3万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E9%98%BF%E6%A0%B9%E5%BB%B7",
-      "practice_angle": "关于「U17国足0:3不敌阿根廷」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E6%88%91%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E4%B9%A1%E6%9D%91%E7%94%B0%E5%9B%AD",
+      "practice_angle": "看到「我镜头里的乡村田园」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     }
   ]
 }
