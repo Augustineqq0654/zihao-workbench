@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-09 03:23:54",
-  "date": "2026-10-09",
+  "fetch_time": "2026-10-10 03:03:42",
+  "date": "2026-10-10",
   "theme": {
-    "name": "即兴点评",
-    "icon": "⚡",
-    "desc": "60秒不准备，张嘴就评",
-    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
+    "name": "场景演绎",
+    "icon": "🎭",
+    "desc": "设一个角色，从他的视角表达",
+    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
     "tips": [
-      "不要写稿，想到什么说什么",
-      "语速可以慢，但不要停顿太久",
-      "录完听一遍，标记可以改进的地方"
+      "角色要具体：职业、年龄、处境",
+      "用角色的语气和用词说话",
+      "可以加一点表演让画面更强"
     ]
   },
   "topics": [
     {
-      "title": "人要长多大才会不恋家",
-      "hot_str": "1199.3万",
+      "title": "警方通报“王皓被围堵辱骂”",
+      "hot_str": "1127.0万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E4%BA%BA%E8%A6%81%E9%95%BF%E5%A4%9A%E5%A4%A7%E6%89%8D%E4%BC%9A%E4%B8%8D%E6%81%8B%E5%AE%B6",
-      "practice_angle": "看到「人要长多大才会不恋家」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E7%8E%8B%E7%9A%93%E8%A2%AB%E5%9B%B4%E5%A0%B5%E8%BE%B1%E9%AA%82%E2%80%9D",
+      "practice_angle": "围绕「警方通报“王皓被围堵辱骂”」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "国庆假日消费新意十足",
-      "hot_str": "1110.3万",
+      "title": "韩军试射5马赫导弹击中海上靶标",
+      "hot_str": "927.1万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E6%96%B0%E6%84%8F%E5%8D%81%E8%B6%B3",
-      "practice_angle": "看到「国庆假日消费新意十足」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 7,
+      "search_url": "https://www.douyin.com/search/%E9%9F%A9%E5%86%9B%E8%AF%95%E5%B0%845%E9%A9%AC%E8%B5%AB%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E6%B5%B7%E4%B8%8A%E9%9D%B6%E6%A0%87",
+      "practice_angle": "围绕「韩军试射5马赫导弹击中海上靶标」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     },
     {
-      "title": "我镜头里的乡村田园",
-      "hot_str": "1044.3万",
+      "title": "CBA季前赛山东逆转广东",
+      "hot_str": "912.6万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E6%88%91%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E4%B9%A1%E6%9D%91%E7%94%B0%E5%9B%AD",
-      "practice_angle": "看到「我镜头里的乡村田园」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/CBA%E5%AD%A3%E5%89%8D%E8%B5%9B%E5%B1%B1%E4%B8%9C%E9%80%86%E8%BD%AC%E5%B9%BF%E4%B8%9C",
+      "practice_angle": "围绕「CBA季前赛山东逆转广东」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
     }
   ]
 }
