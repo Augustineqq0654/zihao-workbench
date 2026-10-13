@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-12 02:59:13",
-  "date": "2026-10-12",
+  "fetch_time": "2026-10-13 04:14:11",
+  "date": "2026-10-13",
   "theme": {
-    "name": "故事讲述",
-    "icon": "📖",
-    "desc": "把热点变成一个有冲突的故事",
-    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
+    "name": "知识科普",
+    "icon": "🔬",
+    "desc": "把复杂的热点用大白话讲明白",
+    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
     "tips": [
-      "用第一人称更有代入感",
-      "加入细节让故事有画面感",
-      "结尾留一个让人回味的点"
+      "用一个生活化的比喻开场",
+      "每讲一个概念配一个例子",
+      "最后总结一句金句方便记忆"
     ]
   },
   "topics": [
     {
-      "title": "秋天的桂花香太治愈了",
-      "hot_str": "1163.1万",
+      "title": "我国加速推进国家水网建设",
+      "hot_str": "1154.6万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E6%A1%82%E8%8A%B1%E9%A6%99%E5%A4%AA%E6%B2%BB%E6%84%88%E4%BA%86",
-      "practice_angle": "把「秋天的桂花香太治愈了」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%8A%A0%E9%80%9F%E6%8E%A8%E8%BF%9B%E5%9B%BD%E5%AE%B6%E6%B0%B4%E7%BD%91%E5%BB%BA%E8%AE%BE",
+      "practice_angle": "用大白话解释「我国加速推进国家水网建设」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "蒙古国草原火逼近内蒙古边境",
-      "hot_str": "1021.6万",
+      "title": "是秋天的魔法帽呀",
+      "hot_str": "1025.8万",
       "level": "爆",
-      "rank": 5,
-      "search_url": "https://www.douyin.com/search/%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E9%80%BC%E8%BF%91%E5%86%85%E8%92%99%E5%8F%A4%E8%BE%B9%E5%A2%83",
-      "practice_angle": "把「蒙古国草原火逼近内蒙古边境」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 6,
+      "search_url": "https://www.douyin.com/search/%E6%98%AF%E7%A7%8B%E5%A4%A9%E7%9A%84%E9%AD%94%E6%B3%95%E5%B8%BD%E5%91%80",
+      "practice_angle": "用大白话解释「是秋天的魔法帽呀」：它到底是什么，为什么发生，对普通人有什么影响"
     },
     {
-      "title": "我的假日慢充宝藏城市",
-      "hot_str": "863.7万",
+      "title": "吃我一记战斧暴扣",
+      "hot_str": "811.3万",
       "level": "爆",
-      "rank": 8,
-      "search_url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%81%87%E6%97%A5%E6%85%A2%E5%85%85%E5%AE%9D%E8%97%8F%E5%9F%8E%E5%B8%82",
-      "practice_angle": "把「我的假日慢充宝藏城市」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
+      "rank": 9,
+      "search_url": "https://www.douyin.com/search/%E5%90%83%E6%88%91%E4%B8%80%E8%AE%B0%E6%88%98%E6%96%A7%E6%9A%B4%E6%89%A3",
+      "practice_angle": "用大白话解释「吃我一记战斧暴扣」：它到底是什么，为什么发生，对普通人有什么影响"
     }
   ]
 }
