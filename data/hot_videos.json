@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-24 02:16:05",
-  "date": "2026-10-24",
+  "fetch_time": "2026-10-25 02:02:14",
+  "date": "2026-10-25",
   "theme": {
-    "name": "场景演绎",
-    "icon": "🎭",
-    "desc": "设一个角色，从他的视角表达",
-    "prompt": "选1个话题，设定一个相关角色，从他/她的视角讲1分钟：我是谁 → 我经历了什么 → 我的感受",
+    "name": "观点输出",
+    "icon": "🎯",
+    "desc": "选定一个热点，明确表达你的立场",
+    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
     "tips": [
-      "角色要具体：职业、年龄、处境",
-      "用角色的语气和用词说话",
-      "可以加一点表演让画面更强"
+      "开头直接亮观点，不绕弯子",
+      "每个理由配一个具体例子",
+      "结尾给行动建议，让观众有获得感"
     ]
   },
   "topics": [
     {
-      "title": "国内黄金克价跌破860元",
-      "hot_str": "1144.0万",
+      "title": "台湾光复81周年",
+      "hot_str": "1210.7万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E9%BB%84%E9%87%91%E5%85%8B%E4%BB%B7%E8%B7%8C%E7%A0%B4860%E5%85%83",
-      "practice_angle": "围绕「国内黄金克价跌破860元」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D81%E5%91%A8%E5%B9%B4",
+      "practice_angle": "就「台湾光复81周年」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     },
     {
-      "title": "MKOI战胜BLG",
-      "hot_str": "931.7万",
+      "title": "苏超半决赛落幕",
+      "hot_str": "1175.3万",
+      "level": "爆",
+      "rank": 4,
+      "search_url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%90%BD%E5%B9%95",
+      "practice_angle": "就「苏超半决赛落幕」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+    },
+    {
+      "title": "台风蔷琵正在我国近海活跃",
+      "hot_str": "917.2万",
       "level": "爆",
       "rank": 7,
-      "search_url": "https://www.douyin.com/search/MKOI%E6%88%98%E8%83%9CBLG",
-      "practice_angle": "围绕「MKOI战胜BLG」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
-    },
-    {
-      "title": "树说中国",
-      "hot_str": "920.3万",
-      "level": "爆",
-      "rank": 10,
-      "search_url": "https://www.douyin.com/search/%E6%A0%91%E8%AF%B4%E4%B8%AD%E5%9B%BD",
-      "practice_angle": "围绕「树说中国」，设定一个当事人角色，从他的第一视角讲述这件事的经过和感受"
+      "search_url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%AD%A3%E5%9C%A8%E6%88%91%E5%9B%BD%E8%BF%91%E6%B5%B7%E6%B4%BB%E8%B7%83",
+      "practice_angle": "就「台风蔷琵正在我国近海活跃」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
     }
   ]
 }
