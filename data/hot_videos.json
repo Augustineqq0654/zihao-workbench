@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-25 02:02:14",
-  "date": "2026-10-25",
+  "fetch_time": "2026-10-26 02:03:37",
+  "date": "2026-10-26",
   "theme": {
-    "name": "观点输出",
-    "icon": "🎯",
-    "desc": "选定一个热点，明确表达你的立场",
-    "prompt": "从下面3个话题中选1个，用60秒表达观点：1.亮明立场 2.给出2个理由 3.一个行动建议",
+    "name": "故事讲述",
+    "icon": "📖",
+    "desc": "把热点变成一个有冲突的故事",
+    "prompt": "选1个话题，把它讲成一个故事：开头设悬念 → 中间制造冲突 → 结尾给反转或感悟",
     "tips": [
-      "开头直接亮观点，不绕弯子",
-      "每个理由配一个具体例子",
-      "结尾给行动建议，让观众有获得感"
+      "用第一人称更有代入感",
+      "加入细节让故事有画面感",
+      "结尾留一个让人回味的点"
     ]
   },
   "topics": [
     {
-      "title": "台湾光复81周年",
-      "hot_str": "1210.7万",
+      "title": "卢拉再次当选巴西总统",
+      "hot_str": "1215.2万",
       "level": "爆",
-      "rank": 1,
-      "search_url": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D81%E5%91%A8%E5%B9%B4",
-      "practice_angle": "就「台湾光复81周年」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 2,
+      "search_url": "https://www.douyin.com/search/%E5%8D%A2%E6%8B%89%E5%86%8D%E6%AC%A1%E5%BD%93%E9%80%89%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F",
+      "practice_angle": "把「卢拉再次当选巴西总统」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     },
     {
-      "title": "苏超半决赛落幕",
-      "hot_str": "1175.3万",
+      "title": "利物浦主场2:0击败布莱顿",
+      "hot_str": "1081.5万",
       "level": "爆",
-      "rank": 4,
-      "search_url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%90%BD%E5%B9%95",
-      "practice_angle": "就「苏超半决赛落幕」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%9C%BA2%3A0%E5%87%BB%E8%B4%A5%E5%B8%83%E8%8E%B1%E9%A1%BF",
+      "practice_angle": "把「利物浦主场2:0击败布莱顿」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     },
     {
-      "title": "台风蔷琵正在我国近海活跃",
-      "hot_str": "917.2万",
+      "title": "Jason吴梦泪王不见王合拍",
+      "hot_str": "931.8万",
       "level": "爆",
-      "rank": 7,
-      "search_url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%AD%A3%E5%9C%A8%E6%88%91%E5%9B%BD%E8%BF%91%E6%B5%B7%E6%B4%BB%E8%B7%83",
-      "practice_angle": "就「台风蔷琵正在我国近海活跃」这个话题，先说大多数人怎么看，再说你为什么同意或不同意，给出你的理由"
+      "rank": 8,
+      "search_url": "https://www.douyin.com/search/Jason%E5%90%B4%E6%A2%A6%E6%B3%AA%E7%8E%8B%E4%B8%8D%E8%A7%81%E7%8E%8B%E5%90%88%E6%8B%8D",
+      "practice_angle": "把「Jason吴梦泪王不见王合拍」改编成一个故事：找到事件中的人，讲他面对的冲突和选择，最后给出感悟"
     }
   ]
 }
