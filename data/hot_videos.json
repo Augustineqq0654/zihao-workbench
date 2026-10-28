@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-27 02:40:57",
-  "date": "2026-10-27",
+  "fetch_time": "2026-10-28 02:49:48",
+  "date": "2026-10-28",
   "theme": {
-    "name": "知识科普",
-    "icon": "🔬",
-    "desc": "把复杂的热点用大白话讲明白",
-    "prompt": "选1个话题，假设你在跟一个10岁小孩解释：是什么 → 为什么重要 → 对我们有什么影响",
+    "name": "情感共鸣",
+    "icon": "💗",
+    "desc": "找到热点里的情绪，说出大家想说的话",
+    "prompt": "选1个话题，找到最触动你的情绪点：描述场景 → 放大情绪 → 说出现众心里的话",
     "tips": [
-      "用一个生活化的比喻开场",
-      "每讲一个概念配一个例子",
-      "最后总结一句金句方便记忆"
+      "先描述一个具体场景再谈感受",
+      "用'你是不是也...'引导共鸣",
+      "情绪要真，不要过度煽情"
     ]
   },
   "topics": [
     {
-      "title": "这张跨山越海的电网越织越密",
-      "hot_str": "1189.8万",
+      "title": "在稻城亚丁看一场秋日童话",
+      "hot_str": "1230.9万",
       "level": "爆",
-      "rank": 3,
-      "search_url": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E8%B7%A8%E5%B1%B1%E8%B6%8A%E6%B5%B7%E7%9A%84%E7%94%B5%E7%BD%91%E8%B6%8A%E7%BB%87%E8%B6%8A%E5%AF%86",
-      "practice_angle": "用大白话解释「这张跨山越海的电网越织越密」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E5%9C%A8%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E7%9C%8B%E4%B8%80%E5%9C%BA%E7%A7%8B%E6%97%A5%E7%AB%A5%E8%AF%9D",
+      "practice_angle": "围绕「在稻城亚丁看一场秋日童话」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     },
     {
-      "title": "凯恩荣膺2026年金球奖",
-      "hot_str": "1076.6万",
+      "title": "CBA常规赛浙江力克辽宁",
+      "hot_str": "1035.3万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E5%87%AF%E6%81%A9%E8%8D%A3%E8%86%BA2026%E5%B9%B4%E9%87%91%E7%90%83%E5%A5%96",
-      "practice_angle": "用大白话解释「凯恩荣膺2026年金球奖」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/CBA%E5%B8%B8%E8%A7%84%E8%B5%9B%E6%B5%99%E6%B1%9F%E5%8A%9B%E5%85%8B%E8%BE%BD%E5%AE%81",
+      "practice_angle": "围绕「CBA常规赛浙江力克辽宁」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     },
     {
-      "title": "钢铁巨兽海内外订单持续增长",
-      "hot_str": "781.1万",
+      "title": "人类为什么喜欢毛茸茸",
+      "hot_str": "768.2万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E9%92%A2%E9%93%81%E5%B7%A8%E5%85%BD%E6%B5%B7%E5%86%85%E5%A4%96%E8%AE%A2%E5%8D%95%E6%8C%81%E7%BB%AD%E5%A2%9E%E9%95%BF",
-      "practice_angle": "用大白话解释「钢铁巨兽海内外订单持续增长」：它到底是什么，为什么发生，对普通人有什么影响"
+      "rank": 10,
+      "search_url": "https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%AF%9B%E8%8C%B8%E8%8C%B8",
+      "practice_angle": "围绕「人类为什么喜欢毛茸茸」，找到普通人最真实的情绪，用'我看到...我想到...你呢'的结构表达"
     }
   ]
 }
