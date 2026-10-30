@@ -1,41 +1,41 @@
 {
-  "fetch_time": "2026-10-29 03:12:06",
-  "date": "2026-10-29",
+  "fetch_time": "2026-10-30 03:15:30",
+  "date": "2026-10-30",
   "theme": {
-    "name": "反驳辩论",
-    "icon": "⚔️",
-    "desc": "站在对立面，把少数派观点讲清楚",
-    "prompt": "选1个话题，故意站在多数人的反面：先复述主流观点 → 再说'但是' → 给出你的反向论证",
+    "name": "即兴点评",
+    "icon": "⚡",
+    "desc": "60秒不准备，张嘴就评",
+    "prompt": "选1个话题，打开计时器，60秒内完成：是什么 → 我的看法 → 一个启发",
     "tips": [
-      "先公平复述对方观点再反驳",
-      "反驳要有事实依据不是抬杠",
-      "结尾可以留一个开放问题"
+      "不要写稿，想到什么说什么",
+      "语速可以慢，但不要停顿太久",
+      "录完听一遍，标记可以改进的地方"
     ]
   },
   "topics": [
     {
-      "title": "秋日山野漫游",
-      "hot_str": "1198.3万",
+      "title": "中共中央举行新闻发布会",
+      "hot_str": "1221.6万",
       "level": "爆",
-      "rank": 2,
-      "search_url": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E5%B1%B1%E9%87%8E%E6%BC%AB%E6%B8%B8",
-      "practice_angle": "关于「秋日山野漫游」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 1,
+      "search_url": "https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+      "practice_angle": "看到「中共中央举行新闻发布会」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "三丽鸥声明与VIVANT终止合作",
-      "hot_str": "1023.2万",
+      "title": "6G技术加速走向应用",
+      "hot_str": "1078.1万",
       "level": "爆",
-      "rank": 6,
-      "search_url": "https://www.douyin.com/search/%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%A3%B0%E6%98%8E%E4%B8%8EVIVANT%E7%BB%88%E6%AD%A2%E5%90%88%E4%BD%9C",
-      "practice_angle": "关于「三丽鸥声明与VIVANT终止合作」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 3,
+      "search_url": "https://www.douyin.com/search/6G%E6%8A%80%E6%9C%AF%E5%8A%A0%E9%80%9F%E8%B5%B0%E5%90%91%E5%BA%94%E7%94%A8",
+      "practice_angle": "看到「6G技术加速走向应用」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     },
     {
-      "title": "我国智能算力规模全球第二",
-      "hot_str": "840.6万",
+      "title": "国防部回应美日近期军演",
+      "hot_str": "998.9万",
       "level": "爆",
-      "rank": 9,
-      "search_url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%99%BA%E8%83%BD%E7%AE%97%E5%8A%9B%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C",
-      "practice_angle": "关于「我国智能算力规模全球第二」，大多数人支持A观点，你来论证为什么B观点也有道理"
+      "rank": 5,
+      "search_url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%97%A5%E8%BF%91%E6%9C%9F%E5%86%9B%E6%BC%94",
+      "practice_angle": "看到「国防部回应美日近期军演」这个话题，你第一反应是什么？60秒内说出来，不要修改不要重来"
     }
   ]
 }
